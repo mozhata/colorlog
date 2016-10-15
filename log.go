@@ -8,7 +8,7 @@ logger.Warning("this is a test of Warning")
 logger.Error("this is a test of Error")
 */
 
-package log
+package colorlog
 
 import (
 	"fmt"
